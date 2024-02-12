@@ -45,3 +45,6 @@ Please replace the input prompts accordingly based on your specific use case. Th
 ```bash
 python Main.py
 ```
+
+## Contributions:
+Contributions and feature requests are welcome! Whether you want to enhance existing functionality, fix bugs, or suggest new features, feel free to submit pull requests.
