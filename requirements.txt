@@ -1,1 +1,6 @@
-
+pandas
+requests
+shutil
+matplotlib
+earthpy
+rasterio
