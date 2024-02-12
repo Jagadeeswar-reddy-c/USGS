@@ -14,6 +14,11 @@ Data Integrity: Verify and ensure the integrity of downloaded data through check
 
 Documentation: Comprehensive documentation to guide users on installation, configuration, and usage of the automated download script.
 
+## Version
+```bash
+Python 3.7.0 or anaconda
+```
+
 ## Usage:
 Installation:
 
